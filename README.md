@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 백엔드 개발자 [김수예] 입니다 👋
 
 <!--
 **SuyeKim/SuyeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
